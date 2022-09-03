@@ -14,3 +14,4 @@ void main(void)
 	/* Print the variable x */
 	printf("The value you entered is %d",x);
 }
+gggg
