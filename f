@@ -3,7 +3,7 @@
 void main(void)
 {
 	/* Define a variable to receive a value */
-	int x;
+	int x;d
 	
 	/* Ask the user to enter value */
 	printf("Please Enter the value: ");
