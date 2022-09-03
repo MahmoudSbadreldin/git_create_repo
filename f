@@ -11,8 +11,10 @@ void main(void)
 	/* Scan a decimal value and save it in x */
 	scanf("%d",&x);
 	
-	/* Print the variable x */
-	printf("The value you entered is %d",x);
-}
+
+	/* Print the variable x and y*/
+	}
 gggg
 zzzz
+
+
